@@ -1,0 +1,1 @@
+/home/vidalpaul/Documents/Study/rust-essential/01_05_building_programs_using_cargo/hello_world/target/release/hello_world: /home/vidalpaul/Documents/Study/rust-essential/01_05_building_programs_using_cargo/hello_world/src/main.rs

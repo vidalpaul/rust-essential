@@ -1,9 +1,7 @@
-// my hello program
+// single line comment
 fn main() {
-    /*
-    Multiple 
-    line 
-    comment
-    */
     println!("Hello, world!"); // this line prints
 }
+/*
+    multiple line comments
+*/
